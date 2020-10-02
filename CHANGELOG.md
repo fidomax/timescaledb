@@ -1,4 +1,4 @@
-# TimescaleDB Changelog
+# TimescaleDB Changelog1
 
 **Please note: When updating your database, you should connect using
 `psql` with the `-X` flag to prevent any `.psqlrc` commands from
